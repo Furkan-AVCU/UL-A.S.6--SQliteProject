@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             //SİLME
             //database.execSQL("DELETE FROM musicians WHERE id=2");
 
-            //ÖZEL FİLTRELELEME DURUMU
+            //ÖZEL FİLTRELELEME DURUMU uuu yes
             //Cursor cursor=database.rawQuery("SELECT*FROM musicians WHERE name LIKE '%s'",null);
 
 
